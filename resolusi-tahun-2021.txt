@@ -1,3 +1,15 @@
 Belajar JavaScript
-1. Pengertian Bahasa Pemograman JavaScript
-2. Sejarah Bahasa JavaScript
+
+1. Sejarah Bahasa JavaScript
+2. Tipe Data, Literal, dan Variabel
+3. Kotak Dialog
+4. Operator
+5. Kondisi
+6. Fungsi
+7. Objek
+8. Objek Inti JavaScript
+9. Objek Browser
+10. Form
+11. Citra dan Link
+12. Penanganan Event
+13. CSS dan JavaScript
